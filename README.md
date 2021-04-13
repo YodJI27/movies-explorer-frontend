@@ -1,4 +1,4 @@
-#Diploma
+# Diploma ( front ) 
 
 **Автор**  
 Илья Шнырев  
