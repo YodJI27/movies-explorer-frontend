@@ -35,13 +35,13 @@ const App = () => {
           <Route exact path="/">
             <Main handleLoggenIn={handleLoggenInFalse}/>
           </Route>
-          <Route exact path="/movies">
+          <Route path="/movies">
             <Movies handleLoggenIn={handleLoggenIn}/>
           </Route>
-          <Route exact path="/saved-movies">
+          <Route path="/saved-movies">
             <SavedMovies handleLoggenIn={handleLoggenIn}/>
           </Route>
-          <Route exact path="/profile">
+          <Route path="/profile">
             <Profile handleLoggenIn={handleLoggenIn}/>
           </Route>
           <Route exact path="/signin">
