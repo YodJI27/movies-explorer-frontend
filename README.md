@@ -1,5 +1,7 @@
 # Diploma / front 
 
+Ссылка на сайт - https://mydiploma.students.nomoredomains.monster
+
 **Автор**  
 Илья Шнырев  
 ***<img src="https://www.pngrepo.com/png/285/170/email.png" width="20" height="20">  shnyrev.iilya@yandex.ru***   
